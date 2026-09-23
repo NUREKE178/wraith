@@ -1,4 +1,3 @@
-cat > ~/README.md << 'EOF'
 # WRAITH
 
 Silent WiFi security audit tool for your own networks.
