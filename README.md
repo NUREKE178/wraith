@@ -66,5 +66,3 @@ The author is not responsible for misuse.
 ---
 
 nu4lan
-EOF
-head -5 ~/README.md
